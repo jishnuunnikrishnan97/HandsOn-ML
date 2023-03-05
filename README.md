@@ -1,7 +1,7 @@
 
 # Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow
 
-This repository documents my personal journey of learning machine learning, deep learning, and neural networks from the book "Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow" by Aurélien Géron.
+This repository documents my personal journey of learning Machine Learning from the book "Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow" by Aurélien Géron.
 
 
 ## Acknowledgements
